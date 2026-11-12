@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603260",
+ "ten": "BuiQuocBinh",
+ "pool_version": 1,
+ "cvat_user": "buiquocbinh",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000175703.jpg",
+  "000000225138.jpg",
+  "000000455536.jpg",
+  "000000493741.jpg",
+  "000000091637.jpg",
+  "000000220045.jpg",
+  "000000360811.jpg",
+  "000000351176.jpg",
+  "000000391222.jpg",
+  "000000438099.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_141135.jpg",
+  "face_261458.jpg",
+  "face_359139.jpg",
+  "face_185015.jpg",
+  "face_436791.jpg",
+  "face_168953.jpg",
+  "face_99874.jpg",
+  "face_279764.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 1,
+   "job_id": 1,
+   "task_name": "persons-BuiQuocBinh"
+  },
+  "faces": {
+   "task_id": 2,
+   "job_id": 2,
+   "task_name": "faces-BuiQuocBinh"
+  }
+ }
+}
